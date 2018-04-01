@@ -1,0 +1,24 @@
+body {
+	padding-top: 50px;
+}
+
+.main-content{
+	padding: 40px 15px;
+}
+
+.contactspar{
+	padding: 30px;
+	font-size: 20px;
+	
+}
+
+
+.ob_agenstve_stage_one{width:100%;height:auto;min-height:390px;}
+    .ob_agenstve_stage_one_logo{width:350px;height:350px;float:left;margin:20px;}
+    .ob_agenstve_stage_one_text{width:auto;height:auto;float:right;font:17px Helvetica;color:#22394c;}
+    .ob_agenstve_title{width:100%;margin-top:20px;height:auto;text-align:center;font:19px/22px Helvetica;color:#22394c;}
+    .ob_agensctve_stage_one_p { margin-top: 0.5em; /* Отступ сверху */
+                                margin-bottom: 1em; /* Отступ снизу */}
+.ob_agenstve_stage_two{width:100%;height:auto;background:#22394c;font:17px Helvetica;color:#fff;text-align:center; }
+    .nonep{margin-top: 0.0em; /* Отступ сверху */  margin-bottom: 0em; /* Отступ снизу */padding-top:25px;padding-bottom:25px; 
+                    margin-left:20px;margin-right:20px;line-height: 170%;}
